@@ -1,3 +1,3 @@
 # EnergyDecoder
 
-Added some features the already existing open source project : http://afterflight.org/qenergyloggerdecoder/
+Pretty intuitive GUI for data decoding of Energy logger 4000
